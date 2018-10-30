@@ -1,0 +1,44 @@
+/* settings for mini screens */
+@media screen and (max-width: 355px) {
+	body {
+		min-width: 350px;
+	}
+}
+
+/* settings for smaller screens*/
+@media screen and (max-width: 600px) {
+	h1.header_name {
+		font-size: 1.5em;
+	}
+
+	.project-main {
+		text-align: center;
+	}
+
+	.project-img {
+		width: 80%;
+	}
+
+	footer {
+		font-size: 0.75em;
+	}
+
+	.project-space {
+		width: 100%;
+		margin-bottom: 1em;
+	}
+}
+
+/* settings for medium screens*/
+@media screen and (min-width: 601px) and (max-width: 768px) {
+	.project-space {
+		width: 50%;
+        margin-bottom: 1em;
+        text-align: center;
+	}
+
+	a:link {
+		font-size: 1em;
+	}
+
+}

@@ -1,0 +1,48 @@
+@media (max-width: 600px) {
+    .deck {
+        width: 500px;
+        min-height: 500px;
+    }
+
+    .card {
+        height: 100px !important;
+        width: 100px !important;
+    }
+}
+
+@media (max-width: 425px) {
+    .deck {
+        width: 400px;
+    }
+
+    .card {
+        height: 75px !important;
+        width: 75px !important;
+    }
+
+@media (max-width: 375px) {
+    .deck {
+        width: 340px;
+    }
+
+    .card {
+        height: 62px !important;
+        width: 62px !important;
+    }
+}
+
+@media (max-width: 320px) {
+    .deck {
+        width: 320px;
+        min-height: 450px;
+    }
+
+    .card {
+        height: 55px !important;
+        width: 55px !important;
+    }
+
+    .score-panel {
+        width: 300px;
+    }
+}

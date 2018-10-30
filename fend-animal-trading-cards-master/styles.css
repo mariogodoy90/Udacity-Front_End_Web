@@ -1,0 +1,41 @@
+/* add your CSS here */
+/* Corpo do card */
+.card{
+    width: 300px;
+    border: 1px solid;
+    border-top-right-radius: 30px;
+    padding: 10px;
+    position: absolute;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+    background: linear-gradient(to top, #4682B4, #B0C4DE, #FFFFFF)
+}
+/* Titulo do Card */
+.card-title{
+    font-family: helvetica, arial;
+}
+/* Imagem */
+.imagem{
+    padding-bottom: 10px;
+    max-width: 100%;
+
+}
+/* Artigo */
+.article{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 13px;
+}
+/* Texto em itálico para fatos interessantes */
+.facts{
+    font-style: italic;
+}
+/* Lista dos rótulos */
+.list-items{
+    padding-left: 15px;
+    list-style-type: none;
+}
+/* Rótulo (label) em negrito */
+.label{
+    font-weight: bolder;
+}
