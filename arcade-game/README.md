@@ -5,7 +5,7 @@ In my Front End Udacity nanodegree, I had to code a classic arcade game based on
 ## Installing from Source
 
 - Clone the following repo:
-  - git clone https://github.com/mariogodoy90/Udacity-Front_End_Web/arcade-game/
+  - git clone https://github.com/mariogodoy90/Udacity-Front_End_Web/tree/master/arcade-game
 - Load index.html in browser.
 - Play the game
 
